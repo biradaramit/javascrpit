@@ -1,0 +1,1 @@
+const textEl = document.getAnimations
